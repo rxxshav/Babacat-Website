@@ -1,0 +1,8 @@
+ 
+<!ELEMENT class (student+)>
+  <!ELEMENT student (name1, roll, department, address)>
+  <!ELEMENT name1 (#PCDATA)>
+  <!ELEMENT roll (#PCDATA)>
+  <!ELEMENT department (#PCDATA)>
+  <!ELEMENT address (#PCDATA)>
+  <!ATTLIST student id CDATA #IMPLIED>

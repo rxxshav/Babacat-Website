@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<!DOCTYPE class SYSTEM "student.dtd">
+<?xml-stylesheet href='student.xsl' type='text/xsl'?>
+<class>
+    <student>
+        <name1>Aarya Parajuli</name1>
+        <roll>01</roll>
+        <department>BCA</department>
+        <address>Kathmandu</address>
+    </student>
+    <student>
+        <name1> Reeshav Maharjan</name1>
+        <roll>05</roll>
+        <department>BCA</department>
+        <address> Kalanki</address>
+        </student>
+    <student>
+        <name1>Abel Tesfaye</name1>
+        <roll>01</roll>
+        <department>CSIT</department>
+        <address>Kathmandu</address>
+    </student>
+    <student>
+        <name1>Micheal Jackson</name1>
+        <roll>02</roll>
+        <department>BCA</department>
+        <address>Pokhara</address>
+    </student>
+    <student>
+        <name1>Aubrey Graham</name1>
+        <roll>02</roll>
+        <department>BCA</department>
+        <address>Kathmandu</address>
+    </student>
+</class>

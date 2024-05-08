@@ -1,0 +1,11 @@
+<!DOCTYPE NEWSPAPER SYSTEM "web.dtd">
+<NEWSPAPER> 
+   <ARTICLE author ="ABC">
+   <HEADING> THE FOX </HEADING>
+   <BYLINE> died </BYLINE>
+   <LEAD>in </LEAD>
+   <BODY>jungle</BODY>
+   <NOTES>reec</NOTES>
+   </ARTICLE>
+
+</NEWSPAPER>
